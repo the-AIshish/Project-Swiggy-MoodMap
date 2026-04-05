@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "name": "Vibe.Impression",
+      "description": "Impression of Vibe module or mood card",
+      "properties": ["user_id_hashed","session_id","mood_id","position","treatment_id","timestamp","context_signals"]
+    },
+    {
+      "name": "Vibe.Click",
+      "description": "Click on a mood card or Vibe hero",
+      "properties": ["user_id_hashed","session_id","mood_id","position","treatment_id","timestamp"]
+    },
+    {
+      "name": "Vibe.SelectMood",
+      "description": "User explicitly selects a mood (including intensity)",
+      "properties": ["user_id_hashed","session_id","mood_id","mood_intensity","saved_preference","timestamp"]
+    },
+    {
+      "name": "Vibe.CollectionClick",
+      "description": "Click on curated collection or hero card",
+      "properties": ["user_id_hashed","session_id","collection_id","mood_id","position","timestamp"]
+    },
+    {
+      "name": "Vibe.AddToCart",
+      "description": "Add to cart action from Vibe flow",
+      "properties": ["user_id_hashed","session_id","mood_id","item_id","merchant_id","price","treatment_id","rank_position","timestamp"]
+    },
+    {
+      "name": "Vibe.Order",
+      "description": "Order placed from Vibe flow",
+      "properties": ["user_id_hashed","session_id","mood_id","order_id","merchant_id","aov","delivery_eta","treatment_id","timestamp"]
+    },
+    {
+      "name": "Vibe.Cancel",
+      "description": "Order cancelled from Vibe-attributed order",
+      "properties": ["user_id_hashed","session_id","mood_id","order_id","merchant_id","cancel_reason","timestamp"]
+    }
+  ]
+}
