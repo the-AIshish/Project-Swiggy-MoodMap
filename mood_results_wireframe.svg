@@ -13,15 +13,15 @@
   
   <!-- Hero Section - "Celebration" mood -->
   <rect x="0" y="145" width="400" height="180" fill="linear-gradient(135deg, #ff6f00 0%, #ffb74d 100%)" rx="0"/>
-  <text x="25" y="180" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#fff">🎉 Season of Celebration</text>
+  <text x="25" y="180" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#fff">Season of Celebration</text>
   <text x="25" y="210" font-family="Arial, sans-serif" font-size="13" fill="rgba(255,255,255,0.95)">Premium picks for special moments</text>
   
   <!-- Featured Cards Carousel (show 1, hint second) -->
   <rect x="15" y="230" width="360" height="110" fill="#fff" stroke="#ff6f00" stroke-width="2" rx="12"/>
   <rect x="15" y="230" width="100" height="110" fill="#ddd" rx="12"/>
   <text x="125" y="255" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#000">The Celebration Kitchen</text>
-  <text x="125" y="275" font-family="Arial, sans-serif" font-size="11" fill="#666">Premium cuisine • Ambiance ★★★</text>
-  <text x="125" y="295" font-family="Arial, sans-serif" font-size="10" fill="#999">45 mins • 2km away • ₹600-1000/person</text>
+  <text x="125" y="275" font-family="Arial, sans-serif" font-size="11" fill="#666">Premium cuisine - Ambiance 5 Star</text>
+  <text x="125" y="295" font-family="Arial, sans-serif" font-size="10" fill="#999">45 mins - 2km away - Rs 600-1000 per person</text>
   
   <!-- CTA on featured card -->
   <rect x="280" y="305" width="80" height="28" fill="#ff6f00" rx="6"/>
@@ -35,8 +35,8 @@
   <rect x="15" y="405" width="100" height="110" fill="#ddd" rx="10"/>
   
   <text x="125" y="428" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#000">Celebration Cafe</text>
-  <text x="125" y="447" font-family="Arial, sans-serif" font-size="11" fill="#666">Multicuisine • Ideal for Events</text>
-  <text x="125" y="465" font-family="Arial, sans-serif" font-size="10" fill="#999">35 mins • 1.2km • Free delivery on ₹500+</text>
+  <text x="125" y="447" font-family="Arial, sans-serif" font-size="11" fill="#666">Multicuisine - Ideal for Events</text>
+  <text x="125" y="465" font-family="Arial, sans-serif" font-size="10" fill="#999">35 mins - 1.2km - Free delivery on Rs 500+</text>
   
   <!-- Mood & Rating -->
   <rect x="125" y="475" width="70" height="22" fill="#fff3e0" rx="4"/>
@@ -50,8 +50,8 @@
   <rect x="15" y="530" width="100" height="110" fill="#ddd" rx="10"/>
   
   <text x="125" y="553" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#000">Grand Dining Hall</text>
-  <text x="125" y="572" font-family="Arial, sans-serif" font-size="11" fill="#666">Fine Dining • Banquet Space</text>
-  <text x="125" y="590" font-family="Arial, sans-serif" font-size="10" fill="#999">50 mins • 3km • Pre-booking available</text>
+  <text x="125" y="572" font-family="Arial, sans-serif" font-size="11" fill="#666">Fine Dining - Banquet Space</text>
+  <text x="125" y="590" font-family="Arial, sans-serif" font-size="10" fill="#999">50 mins - 3km - Pre-booking available</text>
   
   <!-- Mood & Rating -->
   <rect x="125" y="600" width="70" height="22" fill="#fff3e0" rx="4"/>
@@ -65,8 +65,8 @@
   <rect x="15" y="655" width="100" height="110" fill="#ddd" rx="10"/>
   
   <text x="125" y="678" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#000">Special Occasions</text>
-  <text x="125" y="697" font-family="Arial, sans-serif" font-size="11" fill="#666">Theme Cuisine • Customizable</text>
-  <text x="125" y="715" font-family="Arial, sans-serif" font-size="10" fill="#999">40 mins • 1.5km • ₹400-800/person</text>
+  <text x="125" y="697" font-family="Arial, sans-serif" font-size="11" fill="#666">Theme Cuisine - Customizable</text>
+  <text x="125" y="715" font-family="Arial, sans-serif" font-size="10" fill="#999">40 mins - 1.5km - Rs 400-800 per person</text>
   
   <!-- Mood & Rating -->
   <rect x="125" y="725" width="70" height="22" fill="#fff3e0" rx="4"/>
